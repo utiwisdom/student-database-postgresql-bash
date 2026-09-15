@@ -11,7 +11,7 @@
 30 students. 7 majors. Correctly linked. NULLs handled properly, not faked.
 
 ![Students table in pgAdmin](pgadmin-students-table.png)
-![Query verification](query-verification.png)
+![Query verification](hello.png )
 
 ## What It Does
 
