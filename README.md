@@ -140,3 +140,4 @@ Normalization (3NF) · Foreign & composite keys · Bash scripting (loops, condit
 
 ---
 Built as part of the freeCodeCamp Relational Database Certification. MIT License.
+**➡️ Continued in [Part 2: Advanced SQL Reporting](https://github.com/utiwisdom/student-database-part-2)**
